@@ -164,28 +164,28 @@
     "x2": [{
             "device_name": "LeEco LeMax2",
             "variant": "vanilla",
-            "filename": "LegionOS-v2.11.5-vince-20200910-OFFICIAL-Vanilla.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/LegionOS-v2.11.5-vince-20200910-OFFICIAL-Vanilla.zip\/download",
-            "timestamp": "1599744914",
-            "md5sum": "cca8ace294d0ff1d4511a7febc94c578",
-            "size": 826747370,
-            "version": "10.0",
+            "filename": "LegionOS-v3.7-x2-20210320-OFFICIAL-VANILLA.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lemax2\/LegionOS-v3.7-x2-20210320-OFFICIAL-VANILLA.zip/download",
+            "timestamp": "1616252946",
+            "md5sum": "45e587f42127a78be3a4afdc092a325B",
+            "size": 769123836,
+            "version": "3.7",
             "romtype": "OFFICIAL",
-            "changelog": "https://github.com/legionos-devices/OTA/blob/11/x2/changelogs_vanilla.txt",
-            "maintainer_name": "CrisBal"
+            "changelog": "https://raw.githubusercontent.com/legionos-devices/OTA/11/x2/changelogs_vanilla.txt",
+            "maintainer_name": "CrisBalGreece"
         },
         {
             "device_name": "LeEco LeMax2",
             "variant": "gapps",
-            "filename": "LegionOS-v2.11.5-vince-20200910-OFFICIAL-Gapps.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/LegionOS-v2.11.5-vince-20200910-OFFICIAL-G.zip\/download",
-            "timestamp": "1599744914",
-            "md5sum": "cca8ace294d0ff1d4511a7febc94c578",
-            "size": 826747370,
-            "version": "10.0",
+            "filename": "LegionOS-v3.7-x2-20210320-OFFICIAL-GAPPS.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lemax2\/LegionOS-v3.7-x2-20210320-OFFICIAL-GAPPS.zip\/download",
+            "timestamp": "1616185516",
+            "md5sum": "560dfc87c46e3c5d2e63ce93aabf069d",
+            "size": 1013452546,
+            "version": "3.7",
             "romtype": "OFFICIAL",
-            "changelog": "https://github.com/legionos-devices/OTA/blob/11/x2/changelogs_gapps.txt",
-            "maintainer_name": "CrisBal"
+            "changelog": "https://raw.githubusercontent.com/legionos-devices/OTA/11/x2/changelogs_gapps.txt",
+            "maintainer_name": "CrisBalGreece"
         }
     ]
 }
