@@ -107,31 +107,58 @@
             "maintainer_name": "Dr. Raj Kale"
         }
     ],
+    "river": [{
+            "device_name": "Moto G7",
+            "variant": "vanilla",
+            "filename": "",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/river\/\/download",
+            "timestamp": "",
+            "md5sum": "",
+            "size": ,
+            "version": "",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/river/changelogs_vanilla.txt",
+            "maintainer_name": "VitorSSSouza"
+        },
+        {
+            "device_name": "Moto G7",
+            "variant": "gapps",
+            "filename": "LegionOS-v3.7-river-20210322-OFFICIAL-GAPPS.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/river\/LegionOS-v3.7-river-20210322-OFFICIAL-GAPPS.zip\/download",
+            "timestamp": "",
+            "md5sum": "1ef15ba99acee9a88666a37edb66d5da",
+            "size": 1226358168,
+            "version": "11.0",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/river/changelogs_gapps.txt",
+            "maintainer_name": "VitorSSSouza"
+        }
+    ],
     "ocean": [{
             "device_name": "Moto G7 Power",
             "variant": "vanilla",
-            "filename": "LegionOS-v2.11.5-vince-20200910-OFFICIAL-Vanilla.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/LegionOS-v2.11.5-vince-20200910-OFFICIAL-Vanilla.zip\/download",
-            "timestamp": "1599744914",
-            "md5sum": "cca8ace294d0ff1d4511a7febc94c578",
+            "filename": "",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/\/download",
+            "timestamp": "",
+            "md5sum": "",
             "size": 826747370,
-            "version": "10.0",
+            "version": "",
             "romtype": "OFFICIAL",
             "changelog": "https://github.com/legionos-devices/OTA/blob/11/ocean/changelogs_vanilla.txt",
-            "maintainer_name": "Dr. Raj Kale"
+            "maintainer_name": "VitorSSSouza"
         },
         {
             "device_name": "Moto G7 Power",
             "variant": "gapps",
-            "filename": "LegionOS-v2.11.5-vince-20200910-OFFICIAL-Gapps.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/LegionOS-v2.11.5-vince-20200910-OFFICIAL-G.zip\/download",
-            "timestamp": "1599744914",
-            "md5sum": "cca8ace294d0ff1d4511a7febc94c578",
-            "size": 826747370,
-            "version": "10.0",
+            "filename": "",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/vince\/\/download",
+            "timestamp": "",
+            "md5sum": "",
+            "size":826747370,
+            "version": "",
             "romtype": "OFFICIAL",
             "changelog": "https://github.com/legionos-devices/OTA/blob/11/ocean/changelogs_gapps.txt",
-            "maintainer_name": "Harsh"
+            "maintainer_name": "VitorSSSouza"
         }
     ],
     "saders": [{
