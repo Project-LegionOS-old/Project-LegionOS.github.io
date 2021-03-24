@@ -53,6 +53,34 @@
             "maintainer_name": "Immanuel Raj"
         }
     ],
+    "lavender": [{
+            "device_name": "Redmi Note 7/7s",
+            "variant": "vanilla",
+            "filename": "LegionOS-v3.7-lavender-20210324-OFFICIAL-VANILLA.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lavender\/LegionOS-v3.7-lavender-20210324-OFFICIAL-VANILLA.zip\/download",
+            "timestamp": "1616560017",
+            "md5sum": "b87d29940f35fb770350e0a0832fe4dd",
+            "size": 1008007390,
+            "version": "3.7",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/lavender/changelogs_vanilla.txt",
+            "maintainer_name": "CHRISL7"
+        },
+        {
+            "lavender": [{
+            "device_name": "Redmi Note 7/7s",
+            "variant": "gapps",
+            "filename": "LegionOS-v3.7-lavender-20210324-OFFICIAL-GAPPS.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lavender\/LegionOS-v3.7-lavender-20210324-OFFICIAL-GAPPS.zip\/download",
+            "timestamp": "1616560017",
+            "md5sum": "bd49f9fbd5c4f121ffed76f5a0f68457",
+            "size": 1255893687,
+            "version": "3.7",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/lavender/changelogs_gapps.txt",
+            "maintainer_name": "CHRISL7"
+        }
+    ],
     "lmi": [{
             "device_name": "Poco F2 Pro",
             "variant": "vanilla",
