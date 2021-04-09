@@ -215,7 +215,7 @@
             "changelog": "https://raw.githubusercontent.com/legionos-devices/OTA/11/x2/changelogs_gapps.txt",
             "maintainer_name": "CrisBalGreece"
         }
-    ]
+    ],
     "surya": [{
             "device_name": "Xiaomi Poco X3",
             "variant": "vanilla",
