@@ -216,4 +216,18 @@
             "maintainer_name": "CrisBalGreece"
         }
     ]
+    "surya": [{
+            "device_name": "Xiaomi Poco X3",
+            "variant": "vanilla",
+            "filename": "LegionOS-v3.8-surya-20210409-OFFICIAL-VANILLA.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/surya\/LegionOS-v3.8-surya-20210409-OFFICIAL-VANILLA.zip\/download",
+            "timestamp": "1616857343",
+            "md5sum": "191e4635c322cbdff5e1460c26479725",
+            "size": 912261120,
+            "version": "11.0",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/surya/changelogs_vanilla.txt",
+            "maintainer_name": "AmJith Babu"
+        }
+    ]
 }
