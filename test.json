@@ -148,6 +148,20 @@
             "maintainer_name": "VitorSSSouza"
         }
     ],
+    "RMX1921": [{
+            "device_name": "Realme XT",
+            "variant": "vanilla",
+            "filename": "LegionOS-v3.8-RMX1921-20210409-OFFICIAL-VANILLA.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/RMX1921\/LegionOS-v3.8-RMX1921-20210409-OFFICIAL-VANILLA.zip\/download",
+            "timestamp": "1617973224",
+            "md5sum": "119a32d1df88b307d715c34b4e365e6886b946e16d78bc44e51172335b895675",
+            "size": "1114467697",
+            "version": "11.0",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/RMX1921/changelogs_vanilla.txt",
+            "maintainer_name": "ThatisJigen"
+        }
+    ],
     "ocean": [{
             "device_name": "Moto G7 Power",
             "variant": "vanilla",
