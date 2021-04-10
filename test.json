@@ -232,12 +232,12 @@
         {
             "device_name": "LeEco LeMax2",
             "variant": "gapps",
-            "filename": "LegionOS-v3.7-x2-20210321-OFFICIAL-GAPPS.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lemax2\/LegionOS-v3.7-x2-20210321-OFFICIAL-GAPPS.zip\/download",
-            "timestamp": "1616343910",
-            "md5sum": "b0de56117d8d8e815da64b74d58788df",
-            "size": 1013449900,
-            "version": "3.7",
+            "filename": "LegionOS-v3.8-x2-20210410-OFFICIAL-GAPPS.zip",
+            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/lemax2\/LegionOS-v3.8-x2-20210410-OFFICIAL-GAPPS.zip\/download",
+            "timestamp": "1618066480",
+            "md5sum": "a953620364dd5ef3468ec56ee4709e29",
+            "size": 1076661140,
+            "version": "3.8",
             "romtype": "OFFICIAL",
             "changelog": "https://raw.githubusercontent.com/legionos-devices/OTA/11/x2/changelogs_gapps.txt",
             "maintainer_name": "CrisBalGreece"
